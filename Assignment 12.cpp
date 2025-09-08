@@ -1,6 +1,8 @@
 #include <stdio.h>
 #include <math.h>   
-int main() {
+
+int main()
+{
     double principal, rate, time, compoundInterest, amount;
 
     printf("Enter Principal Amount: ");
